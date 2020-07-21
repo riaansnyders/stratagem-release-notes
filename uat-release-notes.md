@@ -1,5 +1,5 @@
 # Stratagem Release Notes
-## UAT Release 2020-07-20
+## Release 2020-07-20
 ### Portal
 #### Components
 -------------------------------
